@@ -15,7 +15,7 @@
 - Item two
 - Item three
   
-  [What is doing my head in?](https://github.com/)
+  [GIVE THIS MAN A JOB! :monkey:](https://www.linkedin.com/in/harley-mortimer-6243b7232/)
 
 `console.log("hello world!")`
 
