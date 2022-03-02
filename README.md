@@ -18,3 +18,7 @@
   [What is doing my head in?](https://github.com/)
 
 `console.log("hello world!")`
+
+-[x] Write Read me repo
+-[] Update repository
+-[] Fix Bug
